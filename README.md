@@ -23,7 +23,7 @@ If you have any questions, [open an issue](https://github.com/IronLanguages/dlr/
 
 History
 -------
-The original DLR site is at http://dlr.codeplex.com. The DLR was part of a much larger repository containing IronPython and IronRuby as well; you can find it at https://github.com/IronLangauges/main/. This is a smaller repository containing just the DLR, which makes it easier to package and should make it easier to do more regular releases.
+The original DLR site is at http://dlr.codeplex.com. The DLR was part of a much larger repository containing IronPython and IronRuby as well; you can find it at https://github.com/IronLanguages/main/. This is a smaller repository containing just the DLR, which makes it easier to package and should make it easier to do more regular releases.
 
 Build
 -----
